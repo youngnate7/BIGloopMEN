@@ -49,14 +49,9 @@ public class exercises{
             }
         }
         public static void dollarsAndStars(){
-            for(int i=1; i<=7; i++){
-                for(int q=0; q<=12; q=q+2){
-                    for(int n=7; n>=1; n--){
-                        for(int p=14; p>=2; p=p-2){
-                            
-                        }
-                    }
-                }
+            int b=0;
+            for(int a=1; a<=7; a++){
+                
             }
         }
     public static void main(String [] args){
